@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Zenet Docs',
   tagline: 'Zenet is respecting budgets. We will not kill your wallet like other hosting companies do',
-  url: 'https://zenethost.github.io',
-  baseUrl: '/docs/',
+  url: 'https://docs.zenet.host',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/zenet.png',
