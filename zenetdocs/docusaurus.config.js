@@ -9,7 +9,7 @@ const config = {
   title: 'Zenet Docs',
   tagline: 'Zenet is respecting budgets. We will not kill your wallet like other hosting companies do',
   url: 'https://zenethost.github.io',
-  baseUrl: '/docs',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/zenet.png',
