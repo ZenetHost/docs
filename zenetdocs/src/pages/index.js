@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Zenet is respecting budgets. We will not kill your wallet like other hosting companies do<head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
