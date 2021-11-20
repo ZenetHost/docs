@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # 🔐 Register with Zenet
 
 So far we only support registration via discord tickets. So let's see how to register
