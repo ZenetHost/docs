@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # API - Getting Started
 
 In this docs we are gonna use JavaScript only. So make sure you have [Node.js](https://nodejs.org/en/ "Node.js") installed
