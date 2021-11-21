@@ -1,5 +1,5 @@
 # 📼 Backups
-Backups are very important parts of every project running on cloud. Because of that, every free user has 1 free backup space for every server.
+Backups are very important parts of every project running on cloud. Because of that, every free user has 1 free backup space for their server.
 
 So, to create a backup, log into the panel and click on your server.
 Next, switch from the console to the "Backups" tab and click on "Create Backup".
