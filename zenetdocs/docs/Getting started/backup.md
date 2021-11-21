@@ -13,4 +13,4 @@ In there, enter the name of your backup and if you want, you can ignore some fil
 Then, you should see your backup.
 ![](https://cdn.discordapp.com/attachments/911733230795911230/911743886475558942/chrome_Hkikxjvdil.png)
 
-If you want to delete, download, lock/unlock or restore it, you can click on the 3 dots next to your backup
+If you want to delete, download, lock/unlock or restore it, you can click on the 3 dots next to your backup.
