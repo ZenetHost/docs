@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
 #👋 Welcome
 
 I'm happy to see you here! You can find anything regarding zenet here.
