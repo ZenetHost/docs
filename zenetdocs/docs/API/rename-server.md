@@ -18,3 +18,5 @@ And then when you start the script it should log `Renamed` in your console
 ```jsx title="console"
 Renamed
 ```
+
+If you want to do more you can check out Nodeactyl docs: https://docs.nodeactyl.dev/api/client.html
