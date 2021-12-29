@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# What to do after registering
+# 😮 What to do after registering
 
 Today we are gonna cover what to do after you register via register form [register.zenet.host]
 
