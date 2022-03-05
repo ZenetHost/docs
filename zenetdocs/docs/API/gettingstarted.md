@@ -3,6 +3,12 @@ sidebar_position: 1
 ---
 
 # Getting Started
+:::caution
+
+Regular users don't need this, if you have no idea what you're doing and someone told you to **give them an API key** for example, **don't** do it, it could be used againist you!
+
+:::
+
 ## Prerequisites
 - In these docs, we are only going to be using JavaScript, so make sure you have [Node.js](https://nodejs.org/en/ "Node.js"), also make sure you have it added to your Windows PATH
 - A good text (preferably code) editor like [VS Code](https://code.visualstudio.com/) or [Notepad++](https://notepad-plus-plus.org/downloads/), we highly don't recommend coding in Notepad 😅
