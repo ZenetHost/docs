@@ -3,7 +3,6 @@ sidebar_position: 2
 ---
 
 # 😮 How to login
-
 Now that you've gotten your credentials, you can proceed to login to your brand new account!
 
 ## 1. Access the panel
