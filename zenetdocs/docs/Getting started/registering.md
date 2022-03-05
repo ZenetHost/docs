@@ -2,22 +2,23 @@
 sidebar_position: 1
 ---
 
-# 🔐 Register with Zenet
+# 🔐 Registering with Zenet
 
-You can register with online form or thru discord tickets. But you still need to join our discord to request a server.
+You can register through an online form or through a Discord ticket. When you register, you will still need to join our Discord to request a server.
 
-# Register with online form
+# Registration through an online form
 
-head to [register.zenet.host](https://register.zenet.host "register.zenet.host"). 
-Only thing you need to do is to enter your email. The username will be everything before the **@**. If you wish you can request a change of your username later in the discord tickets. And you are done, after registration you should receive an email with a link to set your password
-# Register thru discord tickets
-Firstly you need to join our Discord server
+Head to [register.zenet.host](https://register.zenet.host "register.zenet.host") and fill out your email.
+Your username will be everything before the **@** sign in your email. If you wish, you can request a change of your username later in a Discord ticket. 
+After you register, you are done! You should receive an email with a link to set your password shortly. If you don't receive an email to 24 hours from your registration, make a support ticket, following the instructions below.
+# Registration through a Discord ticket
+Firstly, you need to join our Discord server
 
 ![](https://img.shields.io/discord/561956066900836375?label=Zenet%20Discord&style=for-the-badge)
 
 [Join our Discord server](https://zenet.host/discord "Discord")
 
-After you join locate channel named: ``🎫│create-ticket``  
+After you join, locate a channel named ``🎫│create-ticket``  
 ![](https://cdn.discordapp.com/attachments/810981657896681502/911343614238523412/Discord_kFFBGs4TJz.png)
 
-Click on the ``Create ticket`` button and follow the instructions given to you by staff
+Click on the ``Create ticket`` button and follow the instructions given to you by staff.
