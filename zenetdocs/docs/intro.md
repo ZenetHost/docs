@@ -3,8 +3,7 @@ sidebar_position: 1
 ---
 #👋 Welcome
 
-I'm happy to see you here! You can find anything regarding zenet here.
-If you don't find what are you searching for, contact us at discord
+We're happy to see you here! You can find anything regarding Zenet here. 
+To find anything you need, you can find it on the left sidebar or search for it.
 
-If you need anything, you can find it in the sidebar or search it.
-
+If you don't find what are you were for, contact us at our [Discord](https://zenet.host/discord).
