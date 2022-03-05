@@ -1,9 +1,7 @@
 ---
 sidebar_position: 2
 ---
+
 #  🌎 Available locations
-
-## Right now we only have location in:
-	Germany
-
-But we plan to add more locations soon
+Right now, we only have one location, `Germany`,
+but we plan to add more locations soon
