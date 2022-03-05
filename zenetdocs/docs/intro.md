@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-#👋 Welcome
+# 👋 Welcome
 
 We're happy to see you here! You can find anything regarding Zenet here. 
 To find anything you need, you can find it on the left sidebar or search for it.
