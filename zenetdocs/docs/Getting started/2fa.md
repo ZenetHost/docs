@@ -28,4 +28,4 @@ To proceed, download an app such as Microsoft Authenticator ([Android](https://p
 ### 4. Finishing 2FA setup
 Pick your account on the main tab in the 2FA app (Its name should be ZenetHosting) and then type the generated 6-digit code from the app into the empty field next to the QR code and click on `SETUP`.
 
-![](https://cdn.discordapp.com/attachments/911733230795911230/949692390447398972/AuthApp.jfif)
+![](https://cdn.discordapp.com/attachments/911733230795911230/949692803103993936/AuthApp.png)
