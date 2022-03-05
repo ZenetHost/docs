@@ -5,7 +5,7 @@ sidebar_position: 1
 # Getting Started
 :::caution
 
-Regular users don't need this, if you have no idea what you're doing and someone told you to **give them an API key** for example, **don't** do it, it could be used againist you!
+Regular users don't need this, if you have no idea what you're doing and someone told you to **give them your API key** for example, **don't** do it, it could be used against you!
 
 :::
 
