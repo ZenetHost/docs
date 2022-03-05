@@ -27,4 +27,4 @@ It should bring up a box asking for your email address like so:
 ![](https://cdn.discordapp.com/attachments/911733230795911230/949714126479982642/chrome_-_05-03-2022_18-04-40.png)
 
 Type in your email address and press `SEND EMAIL`. 
-If you don't receive an email until 10 minutes passed from the time of request of the password reset, either try again or contact us through a support ticket in our Discord server.
+If you don't receive an email within 10 minutes from the time of request of the password reset, either try again or contact us through a support ticket in our Discord server.
