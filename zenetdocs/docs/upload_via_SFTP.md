@@ -1,3 +1,6 @@
+---
+sidebar_position: 9
+---
 # ✨ Upload files via SFTP
 
 :::tip
