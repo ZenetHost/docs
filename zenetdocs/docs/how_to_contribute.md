@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # 🔗 How to contribute
 1. Navigate to: https://github.com/ZenetHost/docs/tree/main/zenetdocs/docs
 
