@@ -2,7 +2,6 @@
 sidebar_position: 6
 ---
 # ✨ Uploading files via SFTP
-
 :::tip
 
 Uploading files through SFTP is much faster and supports bigger files
