@@ -1,5 +1,5 @@
 # 📜 Hosting rules
-## you are obliged to follow these rules if you use our services
+## You are obliged to follow these rules if you use our services
 
 :::caution
 
@@ -7,18 +7,17 @@ We can change the rules at any time without any notice
 
 :::
 
+- If you leave the Discord server, your server will be suspended. If you join back within 14 days and tell us that you joined back, we will recover it. If you don't, your server will be deleted and your account terminated
 
-- If you leave this server, your server will get suspended. If you join back within 14 days and tell us that you joined back we will recover it. If you don't join back in the 14 days your server will be deleted and your account terminated
+- If we find out that you are hosting something that is against Discord's TOS, we will terminate your account immediately
 
-- if we find out that you are hosting something that is against discords TOS we will terminate your account immediately.
+- An administrator can cancel a partnership or terminate an account at any time without them giving you a reason
 
-- the administrator can cancel the partnership or terminate the account at any time without giving a reason
+- If you host any illegal stuff on our servers and the authorities find out, we will give them all information associated with your account and servers
 
-- if you do any illegal stuff on our servers and police finds out, we will give the police all your information
+- By creating a server you agree that we can do a maintenance at any time, without any reason
 
-- by creating a server you agree that we can do maintenance at any time
-
-- **DO NOT **mine crypto on our servers
+- **DO NOT** mine crypto on our servers
 
 - You can only create one account per household
 
