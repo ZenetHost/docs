@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Getting API key
+# Getting an API key
 :::caution
 
 Regular users don't need this, if you have no idea what you're doing and someone told you to give them your API key for example, don't do it, it could be used against you!
