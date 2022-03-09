@@ -1,7 +1,7 @@
 
 # ✅ Get started status on node.js
-
 As you may know, when your discord.js bot starts, it keeps getting stuck at "Starting", but works perfectly.
+
 ![](https://cdn.discordapp.com/attachments/911733230795911230/951175606803005570/2r2yr.png)
 
 I will show you a quick way on how to fix it. **Note: it only works on Node.js**
