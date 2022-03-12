@@ -33,4 +33,4 @@ Click on the ``Create ticket`` button, explain what you need (registration in th
 
 ## 2. Server creation
 
-Once you receive your password, you can create a ticket (or use an existing one, based on the method you chose for account creation) to request a server creation. You can see how to create a ticket above. Your server must follow the rules listed in the channel `📑rules` and must not use resources bigger than the ones allocated to you according to the [pricing](https://zenet.host/pricing.html) page (1 GB RAM, 50% CPU, 2 GB Storage and no game server hosting for free users).
+Once you receive your password, you can create a ticket (or use an existing one, based on the method you chose for account creation) to request a server creation. You can see how to create a ticket above. Your server must follow the rules listed in the channel `📑rules` and must not use resources bigger than the ones allocated to you according to the [pricing](https://zenet.host/pricing.html) page (256 MB RAM, 50% CPU, 1 GB Storage and no game server hosting for free users).
