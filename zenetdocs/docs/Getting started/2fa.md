@@ -9,12 +9,12 @@ sidebar_position: 3
 ### 1. Changing your view to the "Account" section
 If you want to setup 2FA on your account, first change your view to the `Account` section by clicking the button highlighted in the picture below:
 
-![](https://cdn.discordapp.com/attachments/911733230795911230/952260308959891536/chrome_hHTKqBzuxb.png)
+![](https://cdn.discordapp.com/attachments/911733230795911230/1003310685968678912/unknown.png)
 
 ### 2.  Getting 2FA QR code
 After that, notice the 3rd column which says `Configure Two Factor`.
 
-![](https://cdn.discordapp.com/attachments/911733230795911230/952260837232484442/chrome_mGGy6QZtHa.png)
+![](https://cdn.discordapp.com/attachments/911733230795911230/1003310907314671696/unknown.png)
 
 You should see a `ENABLE` button in the box under `Configure Two Factor`. By clicking it, you will start the process of adding 2 Factor Authentication to your account. If you see a `DISABLE` button instead, you already have 2FA enabled for your account. If you decide to disable it, just click the button and it will revert to the state before this step.
 
