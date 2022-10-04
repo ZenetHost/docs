@@ -1,4 +1,4 @@
-# Custom referral
+# 🔗 Custom referral
 To get your custom referral code, you need to open ticket on [panel](https://client.zenet.host/ticket), or on [discord server](https://discord.gg/T5bUzQUbHH)
 
 ## Panel method
