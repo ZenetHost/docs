@@ -7,7 +7,6 @@ We can change the rules at any time without any notice
 
 :::
 
-- If you leave the Discord server, your server will be suspended. If you join back within 14 days and tell us that you joined back, we will recover it. If you don't, your server will be deleted and your account terminated
 
 - If we find out that you are hosting something that is against Discord's TOS, we will terminate your account immediately
 
