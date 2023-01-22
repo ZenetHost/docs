@@ -1,4 +1,4 @@
-# **How do I cancel my account?**
+# 🔴 Cancel Account
 
 
 In our discord server (if you haven't joined already the invite is: https://discord.gg/TBQdCmZnfy), go to #🎫create-ticket and create a ticket,
