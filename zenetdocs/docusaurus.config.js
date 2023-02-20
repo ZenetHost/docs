@@ -61,6 +61,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://patreon.com/zenethost',
+            label: 'Patreon',
+            position: 'right',
+          },
         ],
       },
       footer: {

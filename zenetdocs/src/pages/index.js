@@ -19,6 +19,12 @@ function HomepageHeader() {
             to="/docs/intro">
             Go to docs
           </Link>
+         <div style={{padding: "5px"}} ></div>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://www.patreon.com/ZenetHost">
+            Support us
+          </Link>
         </div>
       </div>
     </header>
