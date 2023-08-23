@@ -8,7 +8,6 @@ tags: [Accounts]
 # PSA: Inactive Accounts
 ## This blog is about a recent update to the management of inactive accounts
 
-![](https://cdn.discordapp.com/attachments/902903389610983465/999369225888088164/Zenet.png)
 
 To free up server space, we have resorted to suspending and deleting accounts that are inactive and clogging up nodes.
 To make sure this does not affect you, take the following measures:
