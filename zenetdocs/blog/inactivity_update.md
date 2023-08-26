@@ -1,6 +1,6 @@
 ---
 slug: inactivityupdate
-title: PSA: Inactive Accounts
+title: PSA Inactive Accounts
 authors: [simplycactus]
 tags: [Accounts]
 ---
